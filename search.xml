@@ -44,8 +44,8 @@
         <category>摄影</category>
       </categories>
       <tags>
-        <tag>深圳</tag>
         <tag>2018</tag>
+        <tag>深圳</tag>
         <tag>会展中心</tag>
         <tag>摄影展</tag>
       </tags>
@@ -58,8 +58,8 @@
         <category>摄影</category>
       </categories>
       <tags>
-        <tag>深圳</tag>
         <tag>2018</tag>
+        <tag>深圳</tag>
         <tag>世界之窗</tag>
       </tags>
   </entry>
@@ -71,9 +71,9 @@
         <category>摄影</category>
       </categories>
       <tags>
+        <tag>2018</tag>
         <tag>深圳</tag>
         <tag>深圳湾</tag>
-        <tag>2018</tag>
       </tags>
   </entry>
   <entry>
@@ -84,8 +84,8 @@
         <category>摄影</category>
       </categories>
       <tags>
-        <tag>深圳</tag>
         <tag>2018</tag>
+        <tag>深圳</tag>
         <tag>深大</tag>
       </tags>
   </entry>
@@ -97,8 +97,8 @@
         <category>摄影</category>
       </categories>
       <tags>
-        <tag>深圳</tag>
         <tag>2018</tag>
+        <tag>深圳</tag>
         <tag>塘朗山</tag>
       </tags>
   </entry>
@@ -110,8 +110,8 @@
         <category>摄影</category>
       </categories>
       <tags>
-        <tag>深圳</tag>
         <tag>2018</tag>
+        <tag>深圳</tag>
         <tag>观澜版画村</tag>
       </tags>
   </entry>
@@ -135,8 +135,8 @@
         <category>摄影</category>
       </categories>
       <tags>
-        <tag>深圳</tag>
         <tag>2018</tag>
+        <tag>深圳</tag>
         <tag>世界之窗</tag>
       </tags>
   </entry>
@@ -148,8 +148,8 @@
         <category>摄影</category>
       </categories>
       <tags>
-        <tag>深圳</tag>
         <tag>2018</tag>
+        <tag>深圳</tag>
         <tag>老街</tag>
       </tags>
   </entry>
@@ -161,9 +161,9 @@
         <category>摄影</category>
       </categories>
       <tags>
+        <tag>2018</tag>
         <tag>莲花山</tag>
         <tag>深圳</tag>
-        <tag>2018</tag>
       </tags>
   </entry>
   <entry>
@@ -174,9 +174,9 @@
         <category>摄影</category>
       </categories>
       <tags>
+        <tag>2018</tag>
         <tag>深圳</tag>
         <tag>深圳湾</tag>
-        <tag>2018</tag>
       </tags>
   </entry>
   <entry>
@@ -187,9 +187,9 @@
         <category>摄影</category>
       </categories>
       <tags>
+        <tag>2018</tag>
         <tag>深圳</tag>
         <tag>深圳湾</tag>
-        <tag>2018</tag>
       </tags>
   </entry>
   <entry>
@@ -200,8 +200,8 @@
         <category>摄影</category>
       </categories>
       <tags>
-        <tag>深圳</tag>
         <tag>2018</tag>
+        <tag>深圳</tag>
         <tag>洪湖公园</tag>
       </tags>
   </entry>
@@ -213,8 +213,8 @@
         <category>摄影</category>
       </categories>
       <tags>
-        <tag>深圳</tag>
         <tag>2018</tag>
+        <tag>深圳</tag>
         <tag>红树湾</tag>
         <tag>国庆</tag>
       </tags>
@@ -484,19 +484,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[会展中心]]></title>
-    <url>%2F2017%2F08%2F26%2F20170826-%E4%BC%9A%E5%B1%95%E4%B8%AD%E5%BF%83%2F</url>
-    <content type="text"><![CDATA[]]></content>
-      <categories>
-        <category>摄影</category>
-      </categories>
-      <tags>
-        <tag>2017</tag>
-        <tag>深圳</tag>
-        <tag>会展中心</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[白石洲]]></title>
     <url>%2F2017%2F08%2F26%2F20170826-%E7%99%BD%E7%9F%B3%E6%B4%B2%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -507,6 +494,19 @@
         <tag>2017</tag>
         <tag>深圳</tag>
         <tag>白石洲</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[会展中心]]></title>
+    <url>%2F2017%2F08%2F26%2F20170826-%E4%BC%9A%E5%B1%95%E4%B8%AD%E5%BF%83%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>摄影</category>
+      </categories>
+      <tags>
+        <tag>2017</tag>
+        <tag>深圳</tag>
+        <tag>会展中心</tag>
       </tags>
   </entry>
   <entry>
@@ -802,19 +802,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[深圳湾]]></title>
-    <url>%2F2017%2F01%2F25%2F20170125-%E6%B7%B1%E5%9C%B3%E6%B9%BE%2F</url>
-    <content type="text"><![CDATA[]]></content>
-      <categories>
-        <category>摄影</category>
-      </categories>
-      <tags>
-        <tag>2017</tag>
-        <tag>深圳</tag>
-        <tag>深圳湾</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[阿楞]]></title>
     <url>%2F2017%2F01%2F25%2F20170125-%E9%98%BF%E6%A5%9E-%E6%B7%B1%E5%9C%B3%E6%B9%BE%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -826,6 +813,19 @@
         <tag>深圳</tag>
         <tag>深圳湾</tag>
         <tag>阿楞</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[深圳湾]]></title>
+    <url>%2F2017%2F01%2F25%2F20170125-%E6%B7%B1%E5%9C%B3%E6%B9%BE%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>摄影</category>
+      </categories>
+      <tags>
+        <tag>2017</tag>
+        <tag>深圳</tag>
+        <tag>深圳湾</tag>
       </tags>
   </entry>
   <entry>
