@@ -8,7 +8,32 @@
         <category>摄影</category>
       </categories>
       <tags>
+        <tag>2020</tag>
         <tag>老家</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[文选序抄写]]></title>
+    <url>%2F2020%2F01%2F30%2F20200130-%E6%96%87%E9%80%89%E5%BA%8F-%E6%8A%84%E5%86%99%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>阅读</category>
+      </categories>
+      <tags>
+        <tag>2020</tag>
+        <tag>文选序</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[读嵇康绝交书]]></title>
+    <url>%2F2020%2F01%2F24%2F20200124-%E8%AF%BB%E5%B5%87%E5%BA%B7%E7%BB%9D%E4%BA%A4%E4%B9%A6%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>阅读</category>
+      </categories>
+      <tags>
+        <tag>绝交书</tag>
+        <tag>嵇康</tag>
         <tag>2020</tag>
       </tags>
   </entry>
@@ -373,19 +398,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[老街]]></title>
-    <url>%2F2017%2F11%2F25%2F20171125-%E8%80%81%E8%A1%97%2F</url>
-    <content type="text"><![CDATA[]]></content>
-      <categories>
-        <category>摄影</category>
-      </categories>
-      <tags>
-        <tag>深圳</tag>
-        <tag>2017</tag>
-        <tag>老街</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[深圳国际马拉松]]></title>
     <url>%2F2017%2F11%2F25%2F20171125-%E6%B7%B1%E5%9C%B3%E5%9B%BD%E9%99%85%E9%A9%AC%E6%8B%89%E6%9D%BE%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -396,6 +408,19 @@
         <tag>深圳</tag>
         <tag>2017</tag>
         <tag>深圳国际马拉松</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[老街]]></title>
+    <url>%2F2017%2F11%2F25%2F20171125-%E8%80%81%E8%A1%97%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>摄影</category>
+      </categories>
+      <tags>
+        <tag>深圳</tag>
+        <tag>2017</tag>
+        <tag>老街</tag>
       </tags>
   </entry>
   <entry>
@@ -620,8 +645,8 @@
       <tags>
         <tag>深圳</tag>
         <tag>2017</tag>
-        <tag>蛇口招商大厦</tag>
         <tag>蛇口</tag>
+        <tag>蛇口招商大厦</tag>
       </tags>
   </entry>
   <entry>
@@ -634,8 +659,8 @@
       <tags>
         <tag>深圳</tag>
         <tag>2017</tag>
-        <tag>蛇口</tag>
         <tag>大南山</tag>
+        <tag>蛇口</tag>
       </tags>
   </entry>
   <entry>
